@@ -1,0 +1,35 @@
+h1 { text-align: center; 
+	color: white;
+	accent-color: black;
+	font-style: oblique;
+	font-weight: bolder;
+	font-size: 50px;
+
+}
+
+p {color: white;
+font-weight: bold}
+
+
+#picture {display: inline-block;
+          margin-left:auto  ;
+         margin-right: auto  ;
+         color: white ;}
+
+Table { border-spacing: 20px; }
+ th, td { color:white ;
+        font-weight:bolder }
+
+
+Body {background-image: url('Back.jpg') ;
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+   background-size: 100% 100%;}
+
+#des { margin:auto  ;
+       background-color: white  ; 
+      width: 60%;}
+
+
+ 
+
